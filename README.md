@@ -16,3 +16,7 @@ For this project, you will build a message generator program. Every time a user 
 
 ## Idea
 The mixed messages will contain a random chosen sport for the user, their level and practice tips
+
+## Built With
+Visual Studio Code
+Javascript
